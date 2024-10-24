@@ -7,4 +7,4 @@ CombinedScan go语言项目
 
 运行如下：
 
-<img src="https://github.com/user-attachments/assets/a59e0820-f99f-4f66-bdc6-1f86605d00f7" width="100px">
+<img src="https://github.com/user-attachments/assets/a59e0820-f99f-4f66-bdc6-1f86605d00f7" width="400px">
