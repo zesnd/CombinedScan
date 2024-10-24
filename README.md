@@ -1,4 +1,4 @@
-                    CombinedScan go语言项目
+CombinedScan go语言项目
 
 使用go语言对fscan的拙劣模仿...
 自学go语言，在了解基础语法后可以直接对各种go语言工具进行模仿，从而快速上手go语言开发
